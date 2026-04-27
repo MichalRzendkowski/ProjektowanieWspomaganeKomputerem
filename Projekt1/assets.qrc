@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="transform1">transform1.png</file>
+        <file alias="transform2">transform2.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>obrazy/LAS_PION.png</file>
+        <file>obrazy/LAS_POZIOM.png</file>
+        <file>obrazy/DRZEWO.png</file>
+        <file>obrazy/FONTANNA.png</file>
+        <file>obrazy/GOLF_PION.png</file>
+        <file>obrazy/GOLF_POZIOM.png</file>
+        <file>obrazy/KORTY_PION.png</file>
+        <file>obrazy/KORTY_POZIOM.png</file>
+        <file>obrazy/LAWKI.png</file>
+        <file>obrazy/PARKING.png</file>
+        <file>obrazy/POMNIK.png</file>
+        <file>obrazy/RABATKA.png</file>
+        <file>obrazy/STAW.png</file>
+    </qresource>
+</RCC>
